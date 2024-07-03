@@ -1,0 +1,8 @@
+export const SAVE_ARR_DESC="SAVE_ARR_DESC";
+export const SAVE_ARR_ORDER="SAVE_ARR_ORDER";
+export const SAVE_ARR="SAVE_ARR";
+export const UPDATE_CHOOSE_ARR="UPDATE_CHOOSE_ARR";
+export const SAVE_ARR_FORECASTE="SAVE_ARR_FORECASTE";
+export const SAVE_ARR_DIFF="SAVE_ARR_DIFF";
+export const SAVE_ARR_AVG_DIFF="SAVE_ARR_AVG_DIFF";
+export const SAVE_ARR_MUL="SAVE_ARR_MUL";
